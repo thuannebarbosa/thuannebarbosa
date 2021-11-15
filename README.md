@@ -1,9 +1,10 @@
-## Olá! Eu sou a Thuanne, mãe e desenvolvedora Front End!   :woman_technologist:
+:raising_hand_woman: Olá! Eu sou a Thuanne e sou desenvolvedora Front End desde quando isso aqui era tudo mato! 
+
 
  <div>
   <a href="https://github.com/thuannebarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuannebarbosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuannebarbosa&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=thuannebarbosa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <!-- img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuannebarbosa&layout=compact&langs_count=7&theme=buefy"/ -->
   </a>
 </div>
 
