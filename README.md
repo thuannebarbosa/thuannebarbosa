@@ -1,4 +1,4 @@
-:raising_hand_woman: Olá! Eu sou a Thuanne e sou desenvolvedora web desde quando isso aqui era tudo mato! 
+:raising_hand_woman: Olá! Eu sou a Thuanne e sou desenvolvedora Front End há quase 10 anos.  
 
 
  <div>
